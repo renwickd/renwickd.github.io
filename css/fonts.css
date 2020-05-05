@@ -1,0 +1,19 @@
+@font-face {
+font-family: "HelveticaH";
+src: url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.eot');
+src: url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.woff') format('woff'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.woff2') format('woff2'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.svg') format('svg'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.ttf') format('truetype'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Heavy.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+font-family: "HelveticaM";
+src: url('../media/fonts/nhelvetica/HelveticaNeue-Medium.eot');
+src: url('../media/fonts/nhelvetica/HelveticaNeue-Medium.woff') format('woff'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Medium.woff2') format('woff2'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Medium.svg') format('svg'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Medium.ttf') format('truetype'),
+     url('../media/fonts/nhelvetica/HelveticaNeue-Medium.eot?#iefix') format('embedded-opentype');
+}
