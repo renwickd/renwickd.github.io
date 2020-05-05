@@ -48,6 +48,7 @@ canvas{
     letter-spacing: 1.5px;
     color: #fff;
     position: absolute;
+    text-align: center;
     top: 47.5%;
     left: 50%;
     transform: translate(-50%, -47.5%);
